@@ -957,7 +957,11 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: url("http://omsjtc6hv.bkt.clouddn.com/timg.png");
+  background: url("http://omsjtc6hv.bkt.clouddn.com/hexo_head.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
 }
 .header-inner {
   position: relative;
@@ -1684,7 +1688,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1d85ff;
+  background: #669514;
 }
 .links-of-blogroll {
   font-size: 13px;
