@@ -960,7 +960,7 @@ pre .javascript .function {
   background: url("http://omsjtc6hv.bkt.clouddn.com/hexo_head.png");
   background-position: center;
   background-repeat: no-repeat;
-  max-width: 100%;
+  max-width: auto;
   height: auto;
 }
 .header-inner {
@@ -1688,7 +1688,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6af0bf;
+  background: #ff2b1b;
 }
 .links-of-blogroll {
   font-size: 13px;
